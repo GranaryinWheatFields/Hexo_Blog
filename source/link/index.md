@@ -1,5 +1,5 @@
 ---
-title: links
+title: 友链
 date: 2023-10-31 16:30:16
 ---
 
