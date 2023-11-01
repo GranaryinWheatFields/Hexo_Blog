@@ -2,7 +2,7 @@
 title: 批量修改文件名
 date: 2023-11-01
 categories:
-- Python学习与开发
+- Python学习与实践
 - 脚本
 ---
 

@@ -2,7 +2,7 @@
 title: 数组对比
 date: 2023-11-01
 categories:
-- Python学习与开发
+- Python学习与实践
 - 脚本
 ---
 

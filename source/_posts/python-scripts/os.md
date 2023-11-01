@@ -2,7 +2,7 @@
 title: os
 date: 2023-10-31 15:23:46
 categories:
-- Python学习与开发
+- Python学习与实践
 - 学习总结
 ---
 
