@@ -8,7 +8,7 @@ categories:
 
 # 需求
 
-此篇是[在文件中寻找特定的元素并保存（1）](exercise-search-id.md)的需求迭代。
+此篇是[在文件中寻找特定的元素并保存（1）](../exercise-search-id.md)的需求迭代。
 
 1 遍历文件中的内容，将带有 xref:xxx.adoc[] 的行内容全部找到；
 
