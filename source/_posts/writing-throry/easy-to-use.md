@@ -55,12 +55,68 @@ Indicate a practical reason for information.
 
 Relate details to a task where appropriate.
 
+在任务主题中，用户不应该产生疑问：“为什么要告诉我这个？” 例如，仅仅说明文件中的记录有一定的大小可能让用户感到困惑：“那又怎样呢？” 但是，如果你告诉他们他们必须构建一个用来保存文件的库，而记录的大小会影响到他们完成这项任务的方式，他们就能理解你为什么要告诉他们记录的大小。
 
-
+> If the NORES option is used,the routines are link-edited as part of the load moudle.If the RES option is used ,the routines are loaded separately.
+>
+>  Use the NORES option when you have sufficient space for rountines to be link-edited as part of your load module.Use RES option to save space by loading the rountines only when you need them.
 
 ### 在任务主题中仅提供必要的概念信息
 
 Provide only a necessary amount of conceptual information in task topics.
+
+任务主题应着重提供仅支持任务的信息。任务主题可以包括：
+- 完成任务的理由
+- 完成任务的要求（如先决任务或软件）
+- 任务的步骤
+- 支持步骤的提示和示例
+- 关于后续任务的信息（后置任务）
+
+不要将大量重要的概念信息与任务信息混合。用户希望学会做事情，而无需学习与产品相关的所有概念。在任务主题中，尽早提供步骤，并且只在必要时简要解释次要概念。通过为每个主要概念创建一个单独的主题，将主要概念的解释与任务主题分开。在任务主题中提供到这些概念主题的链接。这样，已经理解概念的用户可以完成任务，而需要了解概念的用户可以转到概念主题。
+
+
+> Creating test cases
+> 
+> You can create one or more test cases for each function that you want to test. 
+> 
+> Before you begin: 
+> 1. Create a suite for the function that you are testing. 
+> 2. Create a project within the suite to hold the test cases and files. 
+>
+> To create a test case: 
+> 
+> 1. Right-click a project and select New Test Case from the menu. 
+> 2. Specify details in the New Test Case window. 
+> 3. Click Record and work with the product that you want to test. 
+> 4. Click Save after you finish recording your actions. 
+> 
+> Related topics
+> 
+> Creating suites、Creating projects、Suites、Projects、Test cases
+
+## 专注于实际任务，而不是产品功能
+
+Focus on real tasks, not product functions
+
+实际任务是用户想要执行的任务，不论用户是否使用你的产品来完成。在技术写作中，你很容易忽略真正的任务，而陷入由产品决定的任务中。当使用一个产品几个月时，你可能会忘记用户的任务和产品的任务不一定是相同的。
+
+用户想要编辑表格，但作者将这个任务表述为“使用表格编辑器”，而不是“编辑表格”。
+用户想要统计文件中的记录，但作者将这个任务表述为“使用CNTREC实用工具”，而不是“使用CNTREC实用工具进行记录计数”。
+
+有时产品的设计迫使你描述一些人为的任务。例如，用户想要创建图形，但必须首先设置一个容器来存放图形集。在这种情况下，你可以通过写作“使用容器组织图形”而不是“创建容器”来聚焦于任务而非设计。
+
+## 使用显示任务的标题
+
+Use headings that reveal the tasks
+
+标题是向用户解释为何他们正在获取信息的首要地方。用户应从标题中获得关于主题内容的准确印象。每个标题都应明确表明主题包含与特定任务相关的信息，并概述该任务是什么。
+
+一个像“授权”这样的静态标题对于概念或参考主题可能是可以的，但对于一个任务主题，标题应该揭示用户正在学习如何执行的任务。一个更有帮助的标题可能是“授权用户”或“为用户ID设置授权”。
+
+## 将任务分解为离散的子任务
+
+Divide tasks into discrete subtasks
+
 
 # 准确性
 
