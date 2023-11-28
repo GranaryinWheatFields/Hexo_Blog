@@ -2,8 +2,8 @@
 title: Task orientation
 date: 2023-10-31 15:23:46
 categories:
-- Easy to use
 - Developing Quality Technical Information
+- Easy to use
 ---
 
 # 任务导向
