@@ -21,7 +21,11 @@ categories:
 下图是一个思维导图，用于总结视频的结果、词稿、分镜等。
 
 ![avatar](stepimages/step1.png)
+
 ![avatar](stepimages/step2.png)
+
 ![avatar](stepimages/step3.png)
+
 ![avatar](stepimages/step4.png)
+
 ![avatar](stepimages/step5.png)
