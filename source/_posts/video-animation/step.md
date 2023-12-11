@@ -16,3 +16,12 @@ categories:
 5. 对着解说词和分镜头草稿，人工讲一下，类似讲ppt，这个过程很可能发现有地方不对劲，就需要向前回溯修改。
 
 6. 最后再剪辑视频。
+
+
+下图是一个思维导图，用于总结视频的结果、词稿、分镜等。
+
+![avatar](stepimages/step1.png)
+![avatar](stepimages/step2.png)
+![avatar](stepimages/step3.png)
+![avatar](stepimages/step4.png)
+![avatar](stepimages/step5.png)
