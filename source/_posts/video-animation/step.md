@@ -5,6 +5,8 @@ categories:
 - 视频与动画
 ---
 
+# 思路
+
 1. 先确定视频的【目的】，明确【视频类型】，例如市场宣传、功能简介、操作详解等。
 
 2. 头脑风暴罗列一下视频里面要传递的信息，做一个【信息列表】。这个阶段可以先发散再删减，列的时候先不用考虑章节结构。这个信息列表再根据【重要性】和【依赖关系】，经过删减，把要传递的信息整理成一个树状关系。如果发现信息太多，很可能进一步删减或者需要拆成多个视频。
@@ -17,15 +19,16 @@ categories:
 
 6. 最后再剪辑视频。
 
+# 示例
 
-下图是一个思维导图，用于总结视频的结果、词稿、分镜等。
+下图是一个本地部署hexo的思维导图，用于总结视频的结构、词稿、分镜等。
 
-![avatar](stepimages/step1.png)
+![avatar](/images/step1.png)
 
-![avatar](stepimages/step2.png)
+![avatar](/images/step2.png)
 
-![avatar](stepimages/step3.png)
+![avatar](/images/step3.png)
 
-![avatar](stepimages/step4.png)
+![avatar](/images/step4.png)
 
-![avatar](stepimages/step5.png)
+![avatar](/images/step5.png)
