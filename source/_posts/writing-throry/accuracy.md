@@ -6,7 +6,9 @@ categories:
 - Easy to use
 ---
 
-# 只有在你理解了信息后，才写下来，并在写作完成后进行验证
+# 准确
+
+## 只有在你理解了信息后，才写下来，并在写作完成后进行验证
 
 Write information only when you understand it,and then verify it.
 
@@ -31,7 +33,7 @@ Write information only when you understand it,and then verify it.
 
 你可以在编写信息的小部分时非正式地征求这些反馈，也可以在进行审查或检查时正式地征求反馈。在编写技术信息之前，请确保你对主题有足够的了解，以便能够向用户解释他们需要知道的内容。在可能的情况下，在开发信息时使用产品、工具或界面，并始终在向用户提供信息之前验证准确性。
 
-# 跟上产品迭代
+## 跟上产品迭代
 
 Keep up with technical changes.
 
@@ -45,7 +47,7 @@ Keep up with technical changes.
 
 当信息最终确定后，如果界面发生变化，包含显示用户界面全部或部分的图形可能导致准确性问题。
 
-# 保持对一个主题的所有信息的一致性
+## 保持对一个主题的所有信息的一致性
 
 Maintain consistency of all information about a subject.
 
@@ -55,19 +57,19 @@ Maintain consistency of all information about a subject.
 
 信息的最简单重用形式涉及将信息从一个地方复制并粘贴到其他地方。只有在被重用的信息非常短且未来不太可能更改时，才选择这种技术。对于你不想逐字复制的较长主题，可以使用更好的重用方法：单一源。单一源指的是为不同的输出使用相同的源，几乎没有或没有变化。除非另有说明，在本书中使用的术语“重用”是指使用单一信息源，而不是复制信息。
 
-## 尽量重用信息
+### 尽量重用信息
 
 Reuse information when possible.
 
 通过重用共享信息，你确保用户不会对正确的信息感到困惑。而且，你只需要在一个地方进行信息更改。
 
-## 避免引入不一致性，并消除发现的不一致性
+### 避免引入不一致性，并消除发现的不一致性
 
 Avoid introducing inconsistencies and eliminate those that you find.
 
 确保信息一致性的一个很好的一般规则是尽量减少包含相同信息的地方的数量。
 
-# 使用可以自动检查准确性的工具
+## 使用可以自动检查准确性的工具
 
 Use tools that automate checking for accuracy.
 
@@ -76,7 +78,7 @@ Use tools that automate checking for accuracy.
 
 排版和语法错误可能会产生各种影响。当用户注意到一个小错误时，他们对信息的整体满意度可能会略微下降。如果他们注意到许多错误，他们可能会对技术信息的整体准确性产生疑问。如果错误出现在代码示例、用户过程、有效值陈述或语法定义中，用户可能会停止阅读信息，甚至停止使用产品。
 
-# 检查与相关信息的引用的准确性
+## 检查与相关信息的引用的准确性
 
 Check the accuracy of references to related information.
 
