@@ -17,7 +17,18 @@ categories:
     allowfullscreen="true"> 
 </iframe>
 
-<!-- # Hexo + Github 搭建博客教程（中）
-# Hexo + Github 搭建博客教程（下） -->
+# Hexo + Github 搭建博客教程（中）
+
+<iframe src="//player.bilibili.com/player.html?aid=750057972&bvid=BV13C4y1M7QL&cid=1374462212&p=1"
+    width="720" 
+    height="480"
+    scrolling="no"
+    border="0"
+    frameborder="no"
+    framespacing="0"
+    allowfullscreen="true"> 
+</iframe>
+
+<!-- # Hexo + Github 搭建博客教程（下） -->
 
 
