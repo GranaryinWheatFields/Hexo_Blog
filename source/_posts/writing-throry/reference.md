@@ -1,11 +1,11 @@
 ---
-title: 其他参考
-date: 2023-10-31 15:23:46
+title: 其他参考链接
+date: 2023-9-14 15:23:46
 categories:
 - 中文技术文档的写作规范参考
 ---
 
-# 参考链接
+# 其他参考链接
 
 - [产品手册中文写作规范](https://www.taodocs.com/p-51273.html), by 华为
 - [写作规范和格式规范](http://guide.daocloud.io/dcs/%E5%86%99%E4%BD%9C%E8%A7%84%E8%8C%83%E5%92%8C%E6%A0%BC%E5%BC%8F%E8%A7%84%E8%8C%83-9153803.html), by DaoCloud

@@ -1,9 +1,9 @@
 ---
-title: Completeness
+title: Easy to use - Completeness
 date: 2023-10-31 15:23:46
 categories:
+- 中文技术文档的写作理论参考
 - Developing Quality Technical Information
-- Easy to use
 ---
 
 # 完整
