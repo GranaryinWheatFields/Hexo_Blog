@@ -7,6 +7,7 @@ https://sine1995.gitee.io/2023/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E5%85%A5%E9%
 
 https://hexo.io/zh-cn/docs/
 
+https://librehugohu.github.io/trans/di%C3%A1taxis/
 
 用户手册写作平台
 
