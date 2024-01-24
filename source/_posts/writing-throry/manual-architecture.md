@@ -9,7 +9,7 @@ Diátaxis 是一种思考和创作文档的方式。
 
 Diátaxis 解决与文档内容（写什么）、风格（如何写）和架构（如何组织）相关的问题。
 
-![avatar](/images/manual-structure.png.png)
+![avatar](/images/manual-structure.png)
 
 ### 教程 - 学习导向
    - 教程是一种课程，通过一系列的步骤引导读者完成某个项目。
